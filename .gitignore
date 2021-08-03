@@ -1,6 +1,14 @@
-/.git/
+
 /.idea/
+.idea/
+.idea
+
+
 /__pycache__/
 /tst/migrations/
 /tst/__pycache__/
 
+
+.git/
+/.git/
+/.git/
